@@ -7,7 +7,7 @@ dotenv.config({
 })
 
 
-
+// Call your mongoDB Function
 connectDB()
 .then(() => {
     app.listen(process.env.PORT || 8000, () => {
