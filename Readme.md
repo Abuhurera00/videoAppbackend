@@ -1,4 +1,3 @@
-# backend 
 
 ---
 # Summary of this project
